@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "picoPSU-ATX_V2-eagle-import") (type "KiCad") (uri "${KIPRJMOD}/picoPSU-ATX_V2-eagle-import.kicad_sym") (options "") (descr ""))
+)

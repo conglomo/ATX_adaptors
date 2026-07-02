@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "CDTV-adaptor-ATX_1.1-eagle-import") (type "KiCad") (uri "${KIPRJMOD}/CDTV-adaptor-ATX_1.1-eagle-import.kicad_sym") (options "") (descr ""))
+)
